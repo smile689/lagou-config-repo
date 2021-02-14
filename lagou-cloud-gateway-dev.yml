@@ -1,0 +1,3 @@
+rate-limit:
+  minutes: 1
+  times: 1
